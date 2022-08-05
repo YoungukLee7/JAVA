@@ -1,0 +1,4 @@
+[USER]
+win: 4 draw: 5 lose: 4
+[CPU]
+win: 4 draw: 5 lose: 4
